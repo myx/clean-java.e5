@@ -1,0 +1,8 @@
+Type: ae3.Package
+Name: clean-java.e5
+Title: Clean: myx's java.e5 abstract concept
+Provides:	\
+	clean-java.e5 \
+	source-process:compile-java \
+	source-process:ae3-packages \
+
