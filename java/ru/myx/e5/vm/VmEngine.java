@@ -54,7 +54,7 @@ public interface VmEngine<V> {
 		@Override
 		default VmProgramBuilder<Object> programBuilder() {
 			
-			return new VmProgramBuilder<Object>() {
+			return new VmProgramBuilder<>() {
 				//
 			};
 		}
